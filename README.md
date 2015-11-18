@@ -1,5 +1,5 @@
 # math-better-explained-CN
-[http://betterexplained.com/ ]()中文翻译
+[http://betterexplained.com/ ](http://betterexplained.com/ )中文翻译
 
 陆续翻译该网站的文章
 目前参与人员有：
