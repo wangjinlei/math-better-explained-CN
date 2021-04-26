@@ -1,13 +1,6 @@
 # math-better-explained-CN
 [http://betterexplained.com/ ](http://betterexplained.com/ )中文翻译
 
-陆续翻译该网站的文章
-目前参与人员有：
-<li> 汉明 支付宝软件研发工程师
-<li> 丰胸 支付宝软件研发工程师
-
-欢迎广大有兴趣的朋友加入翻译行列。领翻译任务请联系 mail ： sea11107@mail.ustc.edu.cn
-
 
 
 ## 目录
